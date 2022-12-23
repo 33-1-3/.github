@@ -1,7 +1,7 @@
 # 💿 33 ⅓
 ![로고](https://user-images.githubusercontent.com/72859045/209266191-bdfe4f63-cd3a-4ffc-852e-d9897d8335fd.png)
 
-<b style={{}}>Record your Records!</b>
+### Record your Records!
 <div>소장하고 있는 혹은 소장하고 싶은 바이닐을 정리해주는 프로젝트입니다. </div>
 <br>
 
